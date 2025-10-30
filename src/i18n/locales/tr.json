@@ -1,0 +1,63 @@
+{
+  "common": {
+    "search": "Ara",
+    "add": "Ekle",
+    "edit": "Düzenle",
+    "delete": "Sil",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "close": "Kapat",
+    "logout": "Çıkış Yap",
+    "active": "Aktif",
+    "inactive": "Pasif",
+    "status": "Durum"
+  },
+  "auth": {
+    "login": "Giriş Yap",
+    "email": "E-posta",
+    "password": "Şifre",
+    "emailPlaceholder": "ornek@email.com",
+    "passwordPlaceholder": "••••••••",
+    "loginTitle": "ERP",
+    "loginDescription": "Hesabınıza giriş yapmak için bilgilerinizi girin"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "customers": "Müşteriler"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "description": "ERP sisteminizin genel görünümü",
+    "totalCustomers": "Toplam Müşteri",
+    "totalRevenue": "Toplam Gelir",
+    "activeProjects": "Aktif Projeler",
+    "growthRate": "Büyüme Oranı",
+    "comparedToLastMonth": "geçen aya göre",
+    "recentCustomers": "Son Eklenen Müşteriler",
+    "recentCustomersDescription": "Sisteme son eklenen müşterilerin listesi",
+    "hoursAgo": "{{count}} saat önce",
+    "daysAgo": "{{count}} gün önce",
+    "pending": "Beklemede"
+  },
+  "customers": {
+    "title": "Müşteriler",
+    "description": "Müşteri bilgilerinizi yönetin",
+    "addNew": "Yeni Müşteri",
+    "addCustomer": "Yeni Müşteri Ekle",
+    "editCustomer": "Müşteri Düzenle",
+    "customerList": "Müşteri Listesi",
+    "totalCustomers": "Toplam {{count}} müşteri bulunmaktadır",
+    "searchPlaceholder": "Müşteri ara...",
+    "name": "Ad Soyad",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "company": "Şirket",
+    "actions": "İşlemler",
+    "deleteConfirm": "Bu müşteriyi silmek istediğinizden emin misiniz?",
+    "formDescription": "Müşteri bilgilerini girin ve kaydedin.",
+    "addSuccess": "Müşteri başarıyla eklendi",
+    "updateSuccess": "Müşteri başarıyla güncellendi",
+    "deleteSuccess": "Müşteri başarıyla silindi"
+  }
+}
+

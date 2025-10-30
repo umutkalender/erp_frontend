@@ -1,0 +1,63 @@
+{
+  "common": {
+    "search": "Search",
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "close": "Close",
+    "logout": "Logout",
+    "active": "Active",
+    "inactive": "Inactive",
+    "status": "Status"
+  },
+  "auth": {
+    "login": "Login",
+    "email": "Email",
+    "password": "Password",
+    "emailPlaceholder": "example@email.com",
+    "passwordPlaceholder": "••••••••",
+    "loginTitle": "ERP",
+    "loginDescription": "Enter your credentials to access your account"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "customers": "Customers"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "description": "Overview of your ERP system",
+    "totalCustomers": "Total Customers",
+    "totalRevenue": "Total Revenue",
+    "activeProjects": "Active Projects",
+    "growthRate": "Growth Rate",
+    "comparedToLastMonth": "compared to last month",
+    "recentCustomers": "Recent Customers",
+    "recentCustomersDescription": "List of recently added customers",
+    "hoursAgo": "{{count}} hours ago",
+    "daysAgo": "{{count}} days ago",
+    "pending": "Pending"
+  },
+  "customers": {
+    "title": "Customers",
+    "description": "Manage your customer information",
+    "addNew": "New Customer",
+    "addCustomer": "Add New Customer",
+    "editCustomer": "Edit Customer",
+    "customerList": "Customer List",
+    "totalCustomers": "Total {{count}} customers found",
+    "searchPlaceholder": "Search customers...",
+    "name": "Full Name",
+    "email": "Email",
+    "phone": "Phone",
+    "company": "Company",
+    "actions": "Actions",
+    "deleteConfirm": "Are you sure you want to delete this customer?",
+    "formDescription": "Enter customer information and save.",
+    "addSuccess": "Customer added successfully",
+    "updateSuccess": "Customer updated successfully",
+    "deleteSuccess": "Customer deleted successfully"
+  }
+}
+
